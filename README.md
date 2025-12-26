@@ -63,10 +63,3 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding, dedicated to t
 🔗 [View Project](https://github.com/Niair/Power-BI-Sales-Performance-Dashboard)
 
 ---
-
-
-### 📫 Let’s Connect!
-
-[![LinkedIn](https://www.linkedin.com/in/abhishek-joshi-095286286?)
-
-💡 **Open to innovative projects, research opportunities, and data-driven challenges!**
