@@ -17,7 +17,8 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding, dedicated to t
 #### 🚀 **Programming Languages**  
 <div align="center">  
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" title="SQL"/> | <img 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/> | 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" title="SQL"/> |
 
 | **Python** | **SQL** |  
 
