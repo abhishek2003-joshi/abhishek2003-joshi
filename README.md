@@ -52,11 +52,6 @@ Welcome to my GitHub profile! 🚀 I’m passionate about coding, dedicated to t
 
 ### 🚀 Projects
 
-**3️⃣ Power BI IPL Dashboard (Live)**  
-- Created an interactive dashboard analyzing IPL data in real time using Power BI.  
-- Leveraged DAX and Power Query for dynamic data visualizations.  
-🔗 [View Dashboard](https://github.com/Niair/IPL-Live-Analysis-Project-using-APIs-Power-BI--/tree/main)
-
 **4️⃣ Power-BI-Sales-Performance-Dashboard**  
 - This interactive dashboard offers a complete view of sales performance by team, individual, and region. Monitor total sales, YoY growth, and top products with dynamic filters and drill-downs. 
 - Built for managers to spot trends, top performers, and improvement areas in real time.
